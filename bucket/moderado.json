@@ -1,0 +1,12 @@
+{
+  "version": "0.3.0",
+  "description": "Free-first AI coding agent",
+  "homepage": "https://github.com/marcuz-apl/moderado",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/marcuz-apl/moderado/releases/download/v0.3.0/moderado-win-x64.exe",
+      "hash": "5660e0d204897c6d9a6adf990192a0fe2f4b5454d6b6888897bde65aef1f67ff"
+    }
+  },
+  "bin": "moderado-win-x64.exe"
+}
